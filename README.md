@@ -1,2 +1,2 @@
 # yp_projects
-Some projects from yandex practicum
+Some projects that i did on the yandex practicum courses
