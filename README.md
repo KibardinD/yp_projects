@@ -1,7 +1,5 @@
 # yandex practicum project | Data Science
 
----
-
 ## Age Determination
 
 ### Описание проекта
