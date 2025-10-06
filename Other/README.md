@@ -1,6 +1,6 @@
 # Персонализация предложений в интернет-магазине
 
-[customer_retention_engine]()
+[customer_retention_engine](https://github.com/KibardinD/yp_projects/blob/main/Other/customer_retention_engine.ipynb)
 
 ### Описание проекта
 
@@ -17,7 +17,7 @@
 ---
 # Выявление закономерностей, определяющих успешность игр
 
-[game_metrics]()
+[game_metrics](https://github.com/KibardinD/yp_projects/blob/main/Other/game_metrics.ipynb)
 
 ### Описание проекта
 Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation).
@@ -41,7 +41,7 @@
 ---
 # Предсказание удержания сотрудников
 
-[retention_predict]()
+[retention_predict](https://github.com/KibardinD/yp_projects/blob/main/Other/retention_predict.ipynb)
 
 ### Описание проекта
 HR-аналитики компании помогают бизнесу оптимизировать управление персоналом: бизнес предоставляет данные, а аналитики предлагают, как избежать финансовых потерь и оттока сотрудников.
